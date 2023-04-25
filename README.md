@@ -1,4 +1,10 @@
-### Hi there 👋
+<div id="main background">
+<p align:"center">
+Sam Rabieh
+</p>
+</div>
+
+#student at Kenyon
 
 <!--
 **srabieh/srabieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
