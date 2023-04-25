@@ -1,3 +1,4 @@
+<html>
 <head>
   <!--empty so far, for later use-->
 </head>
@@ -25,6 +26,8 @@
       <br>only just discovered the profile README
     </p>
 </div>
+
+</html>
 
 <!--
 **srabieh/srabieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
