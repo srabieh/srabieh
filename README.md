@@ -1,8 +1,3 @@
-<html>
-<head>
-  <!--empty so far, for later use-->
-</head>
-
 <div>
   <h1 align="center">
     sam rabieh
@@ -21,13 +16,11 @@
         <li><a href="http://34.229.136.9">aws vm</li>
       </ul>
     </p>
-    <br><br><br>
-    <p style="color:red;">i'm not a minimalist i just need to spice this up.
+    <br><br>
+    <p>i'm not a minimalist i just need to spice this up.
       <br>only just discovered the profile README
     </p>
 </div>
-
-</html>
 
 <!--
 **srabieh/srabieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
