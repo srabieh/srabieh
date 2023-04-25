@@ -21,7 +21,7 @@
       </ul>
     </p>
     <br><br><br>
-    <p style="color:red">i'm not a minimalist i just need to spice this up.
+    <p style="color:red;">i'm not a minimalist i just need to spice this up.
       <br>only just discovered the profile README
     </p>
 </div>
