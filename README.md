@@ -1,8 +1,4 @@
-<div id="main background">
-<p align="center">
-Sam Rabieh
-</p>
-</div>
+
 
 ##student at Kenyon
 
