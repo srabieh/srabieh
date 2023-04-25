@@ -1,3 +1,7 @@
+<head>
+  <!--empty so far, for later use-->
+</head>
+
 <div>
   <h1 align="center">
     sam rabieh
@@ -13,8 +17,12 @@
     <p>
       softdev, spring 23:
       <ul>
-        <li><a href="http://34.229.136.9">aws vm></li>
+        <li><a href="http://34.229.136.9">aws vm</li>
       </ul>
+    </p>
+    <br><br><br>
+    <p style="color:red">i'm not a minimalist i just need to spice this up.
+      <br>only just discovered the profile README
     </p>
 </div>
 
