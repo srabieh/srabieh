@@ -17,9 +17,7 @@
       </ul>
     </p>
     <br><br>
-    <p>i'm not a minimalist i just need to spice this up.
-      <br>only just discovered the profile README
-    </p>
+    <p>i'm not a minimalist i just need to spice this up.</p>
 </div>
 
 <!--
