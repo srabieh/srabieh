@@ -23,7 +23,6 @@
       <ul>
         <li><a href="https://srabieh.github.io/">srabieh.github.io</a></li>
       </ul>
-    
     </p>
     <br><br>
     <p>i'm not a minimalist i just need to spice this up.</p>
