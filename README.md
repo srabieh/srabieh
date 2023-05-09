@@ -16,6 +16,15 @@
         <li><a href="http://34.229.136.9">aws vm</li>
       </ul>
     </p>
+    
+  <h6>messin around:</h6>
+    <p>
+      working personal website:
+      <ul>
+        <li><a href="https://srabieh.github.io/">srabieh.github.io</a></li>
+      </ul>
+    
+    </p>
     <br><br>
     <p>i'm not a minimalist i just need to spice this up.</p>
 </div>
