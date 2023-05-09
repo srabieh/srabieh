@@ -13,7 +13,7 @@
     <p>
       softdev, spring 23:
       <ul>
-        <li><a href="http://34.229.136.9">aws vm</li>
+        <li><a href="http://34.229.136.9">aws vm</a></li>
       </ul>
     </p>
     
