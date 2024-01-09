@@ -4,7 +4,7 @@
   </h1>
   
   <h4>
-    student at kenyon, studing polisci (i know), math, bluegrass, and computer science (last but not least)
+    student at kenyon, studing polisci, math, and fiddle
   </h4>
   
   <h6>
