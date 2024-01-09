@@ -7,15 +7,7 @@
     student at kenyon, studing polisci, math, and fiddle
   </h4>
   
-  <h6>
-    kenyon compsci classes:
-  </h6>
-    <p>
-      softdev, spring 23:
-      <ul>
-        <li><a href="http://34.229.136.9">aws vm</a></li>
-      </ul>
-    </p>
+
     
   <h6>messin around:</h6>
     <p>
